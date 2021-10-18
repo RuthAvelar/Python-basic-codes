@@ -1,5 +1,5 @@
 # Python-basic-codes
-> _Operações e comandos básicos - Programação em Python_
+> _Projetos com operações e comandos básicos - Programação em Python_
 > 
 ### Status: Developing 
 
