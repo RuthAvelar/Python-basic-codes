@@ -1,7 +1,7 @@
 # Python-basic-codes
 > _Projetos com operações e comandos básicos - Programação em Python_
 > 
-### Status: Developing 
+### Status: Developing ✨
 
 Este é um repositório de Open Source que contém projetos testes que utiliza os comandos bases da linguagem em Python. Desse modo, poderá conter erros e acertos em relação a linguagem. 
 
