@@ -1,6 +1,6 @@
 def partida():
 
-    print(" ")
+    print("  ")
 
     # Solicita ao usuário os valores de n e m:
     n = int(input("Quantas peças? "))
