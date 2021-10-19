@@ -8,7 +8,7 @@ message= input("Vamos começar? ")
 def newquiz():
     if message == "sim":
         print ("Ok, vamos lá :D")
-        #Primeira pergunta:
+        # Primeira pergunta:
         pergunta1=print ("Qual desses estudiosos é considerado o pai do Iluminismo e precursor da Geográfia moderna:")
         print ('a) Ratzel')
         print ('b) Bismarck')
@@ -20,7 +20,7 @@ def newquiz():
             pontos1 =+ 20
         else:
             pontos1 == 0
-        #Segunda pergunta:
+        # Segunda pergunta:
         pergunta2=print ("A revolta da vacina que ocorreu no Brasil em 1904, emergiu sob o governo de qual presidente?")
         print ('a) Washington Luis')
         print ('b) Rodrigo Alves')
@@ -32,7 +32,7 @@ def newquiz():
             pontos2 =+20
         else:
             pontos2 == 0
-        #Terceira pergunta:
+        # Terceira pergunta:
             pergunta3=print ("O período histórico conhecido como Absolutismo teve como uma das suas principais características")
             print ('a) a relação de suserania e vassalagem')
             print ('b) a crítica à centralização do poder ao monarca')
@@ -45,7 +45,7 @@ def newquiz():
                 pontos3 =+20 
             else:
                 pontos3 == 0
-        #Quarta pergunta:
+        # Quarta pergunta:
         pergunta4=print ("Qual é a primeria fase dentre as eras literárias a ter um caráter depressivo e sombrio?")
         print ('a) Ultrarromantismo')
         print ('b) Simbolismo')
@@ -57,7 +57,7 @@ def newquiz():
             pontos4 =+ 20
         else:
             pontos4 == 0
-        #Quinta pergunta:
+        # Quinta pergunta:
         pergunta4=print ("Qual é o termo ténico que define a 3ª revolução industrial?")
         print ('a) Revolução técnico-científica-informacional')
         print ('b) Indústria 4.0')
