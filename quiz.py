@@ -71,9 +71,9 @@ def newquiz():
             pontos5 == 0
         result= pontos1+pontos2+pontos3+pontos4+pontos5
         if result > 20:
-            print("NICE! você foi muito bem. Sua pontuação final é", result)
+            print("NICE! você foi muito bem. Sua pontuação final é ", result)
         else:
-            print("Poxa, estude mais. Sua pontuação é", result)
+            print("Poxa, estude mais. Sua pontuação é ", result)
             
     elif message == "não":
         print ("Que pena,", nome ,"!quando quiser é só retornar :D")
